@@ -24,7 +24,7 @@
 + 호텔방은 엔터티로, db조작이 이루어져도 정보가 삭제되면 안된다(삭제 이상 방지)
 + 따라서, 호텔방에 대한 정보를 저장하는 테이블과 예약된 테이블을 나누어 예약된 방(날짜와 에약 상태를 추가로 저장)을 나타낸다
 + ERD는 다음과 같습니다.
-<img src="/img/erd-pictures.PNG" width="90%" height="30%" title="room table" alt="room"></img>
+<img src="/img/erd-rooms.PNG" width="90%" height="30%" title="room table" alt="room"></img>
 -----------
 
 # 정규화 - Project 적용
