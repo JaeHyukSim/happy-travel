@@ -12,7 +12,11 @@
                각 사진에 대한 컬럼을 만들 수 없다(RDBMS). 또한, 이를 products 릴레이션의 한 컬럼에
                구분자를 통한 배열(값1,값2,값3...)로 저장할 수 있는데, 이렇게 구현할 경우 데이터의
                추가, 삭제, 갱신에 대한 복잡한 문제가 발생할 수 있다(해당 컬럼의 문자열을 조작해야 하는 이슈)
-              - 이에 대한 해결책으로 pictures 릴레이션을 생성한다. 그리고, pictures의 url과, products에서 참조한
-              product's id를 하나의 primary key로 결정하여 유일하게 만들었다.
-              - 사진
-              
+              - 이에 대한 해결책으로 pictures 릴레이션을 생성한다. 그리고, pictures의 url과, products에서 참조한 product's id를 하나의 primary key로 결정하여 유일하게 만들었다.
+               
+                  <img src="/img/erd-1normalization-products-and-pictures.PNG" width="90%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+                  <img src="/img/erd-1normalization-products-and-rooms.PNG" width="50%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+      
+### 제 2 정규화 적용
+  2. 제 2 정규화란?
+      - 완전 함수적 종속 만들기 - 기본키의 구성중 일부에만 종속적인 컬럼이 있으면 안된다.
