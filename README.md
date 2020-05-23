@@ -1,11 +1,26 @@
 # 여행복행
 #### 우리나라 대표 휴양지인 제주도에 대한 다양한 정보를 제공하고 많은 사람들의 방문을 유도할 수 있는 프로젝트
 
-[Project-study] ( https://github.com/JaeHyukSim/project-study/blob/master/README.md )
+[Project-study] ( https://github.com/JaeHyukSim/project-study/blob/master/README.md ) -이거 링크 외 않돼냐?
 -------------
 
 ### 담당 부분과 기능
-+ ERD 설계, 호텔 리스트, 호텔 디테일, 호텔 예약 시스템 구축
++ ERD 설계
+    - [ERD 보러가기](ERD link)
++ 호텔 리스트
+    - [flex sliding 보러가기](Flex Sliding link)
+    - [검색 기능 보러가기](search link)
++ 호텔 디테일
+    - [modal 보러가기](modal link)
+    - [tab UI 보러가기](tab UI link)
++ 호텔 예약 시스템 구축
+
+### 축적한 지식
++ Back End : Spring의 Dispatcher Servlet 동작 방식에 대한 이해
+    - 이해한 부분에 대한 설명
++ Front End : templating에 대한 이해
++ 정규화에 대한 이해
++ 등등? ㅎㅎ
 ### 개발 기간
 + #### 2020-xx-xx ~ 2020-yy-yy
 ### 팀원 
