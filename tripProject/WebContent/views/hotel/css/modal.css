@@ -1,0 +1,154 @@
+.modal-background{
+    display: none;
+    height : 100px;
+    width : 100px;
+    background-color: rgba(0,0,0,0.3);
+    position: fixed;
+    left : 0px;
+    top : 0px;
+}
+.modal-wrap{
+    display: none;
+    background-color: #ffffff;
+    width : 1300px;
+    position: fixed;
+    top: 150px;
+    left: 150px;
+    border :7px solid #ffc107;
+    z-index : 10;
+    overflow-y: scroll;
+    max-height: 750px;
+}
+.modal-wrap #template-modal-p{
+	font-size : 2rem;
+	color: #777;
+}
+.modal-wrap .reservation-btn{
+	float : right;
+	color : white;
+	width : 150px;
+	height : 60px;
+	line-height : 60px;
+	text-align : center;
+	cursor : pointer;
+	background-color : rgba(0,0,0,0.3);
+	margin-left: 800px;
+	background-color : #7643ea;
+	
+
+}
+
+.modal-wrap #template-modal-p{
+	font-size : 2rem;
+	color: #777;
+}
+.modal-wrap .reservation-btn{
+	float : right;
+	color : white;
+	width : 150px;
+	height : 60px;
+	line-height : 60px;
+	text-align : center;
+	cursor : pointer;
+	margin-left: 800px;
+	background-color : #7643ea;
+}
+
+.modal-wrap .data-wrap{
+    width: 1100px;
+    margin:auto;
+    margin-top: 30px;
+}
+.modal-wrap .img-wrap{
+	position: relative;
+	width: 1100px;
+    height: 500px;
+}
+.modal-wrap .img-wrap img{
+	position:absolute;
+	top:0px;
+	left:0px;
+    width: 1100px;
+    height: 500px;
+}
+.modal-wrap .img-wrap span{
+	position: absolute;
+    z-index: 10;
+    font-size: 3rem;
+    color: #fbff00;
+    top: 10px;
+    left: 30px;
+ font-family: 'Yeon Sung', cursive;
+}
+.modal-wrap .img-wrap div{
+	position:absolute;
+	z-index : 30;
+	font-size : 4rem;
+	color : red;
+	top:400px;
+	left:1000px;
+	cursor:pointer;
+}
+.modal-wrap .basic-info-wrap{
+    margin-top: 20px;
+}
+.modal-wrap .basic-info-wrap p{
+    font-size: 4rem;
+    color: rgb(255, 193, 7);
+    font-family: "Do Hyeon", sans-serif;
+}
+.modal-wrap .data-wrap nav ul{
+    overflow: hidden;
+    margin:auto;
+}
+.modal-wrap .data-wrap nav ul li{
+    float: left;
+    border-top: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+    border-bottom: 2px solid #7643ea;
+    
+    cursor: pointer;
+    font-size: 1.8rem;
+    padding:10px 25px;
+    width: 263px;
+    text-align: center;
+    
+    font-family: 'Yeon Sung', cursive;
+    font-size: 2rem #7643ea;
+    
+}
+
+.modal-wrap .data-wrap .modal-map-wrap{
+	margin:10px auto;
+	width:700px;
+	height:400px;
+}
+
+.modal-wrap table{
+	text-align : left;
+	font-size : 1.5rem;
+	border-bottom : 0px;
+}
+
+.modal-wrap .mark-wrap{
+	overflow:hidden;
+	width:220px;
+	height:70px;
+}
+.modal-wrap .mark-wrap .mark-thumbnail{
+	float:left;
+}
+.modal-wrap .mark-wrap .mark-thumbnail img{
+	width:90px;
+	height:70px;
+}
+.modal-wrap .mark-wrap .mark-title{
+	width:120px;
+	height:70px;
+	float:left;
+	line-height: 70px;
+	oveflow:hidden;
+}
+.modal-wrap .mark-wrap .mark-title p{
+	line-height: 70px;
+}
