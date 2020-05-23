@@ -1,3 +1,14 @@
+# Database 설계
+### 흥미로운 부분이나 조금 더 고민했던 부분에 대한 구체적인 설명
+----------
+
+### 좋아요 구현하기
++ 한 명의 회원은 상품 하나당 딱 **한번만** 좋아요를 등록할 수 있습니다.
++ 사용자가 상품의 좋아요 버튼을 클릭하면, 좋아요를 **등록** 하거나 **해제** 할 수 있습니다.
++ 릴레이션의 관계는 다음과 같습니다.
+<img src="/img/erd-1normalization-products-and-pictures.PNG" width="90%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+                  <img src="/img/erd-1normalization-products-and-rooms.PNG" width="50%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 # 정규화 - Project 적용
 ### 데이터베이스 정규화란?
   - 데이터베이스의 설계를 재구성하는 테크닉이다. 정규화를 통해 불필요한 데이터중복(redundancy)를 없애는 효과가 가장 크다.(삽입, 갱신, 삭제 이상현상)
