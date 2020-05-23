@@ -4,7 +4,7 @@
 [Project-study] ( https://github.com/JaeHyukSim/project-study/blob/master/README.md ) -이거 링크 외 않돼냐?
 -------------
 
-### 담당 부분과 기능
+### 나의 담당 부분과 기능
 + ERD 설계
     - [ERD 보러가기](ERD link)
 + 호텔 리스트
