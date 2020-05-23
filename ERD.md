@@ -17,14 +17,14 @@
 ### 상품에 사진 등록하기
 + 제 1 정규화를 적용하여, list로 이루어진 사진 데이터들을 새로운 테이블에 저장한다.
 + ERD 일부는 다음과 같습니다.
-<img src="/img/img/erd-pictures.PNG" width="90%" height="30%" title="pictures table" alt="picture"></img>
+<img src="/img/erd-pictures.PNG" width="90%" height="30%" title="pictures table" alt="picture"></img>
 -----------
 ### 호텔방과 예약된호텔방 테이블 분리
 + 호텔방과, 예약된 호텔방 테이블은 hotel_id, room_id 두 개를 똑같은 primary key로 가지고 있다.
 + 호텔방은 엔터티로, db조작이 이루어져도 정보가 삭제되면 안된다(삭제 이상 방지)
 + 따라서, 호텔방에 대한 정보를 저장하는 테이블과 예약된 테이블을 나누어 예약된 방(날짜와 에약 상태를 추가로 저장)을 나타낸다
 + ERD는 다음과 같습니다.
-<img src="/img/img/erd-pictures.PNG" width="90%" height="30%" title="room table" alt="room"></img>
+<img src="/img/erd-pictures.PNG" width="90%" height="30%" title="room table" alt="room"></img>
 -----------
 
 # 정규화 - Project 적용
