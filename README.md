@@ -1,14 +1,16 @@
 # 여행복행
 #### 우리나라 대표 휴양지인 제주도에 대한 다양한 정보를 제공하고 많은 사람들의 방문을 유도할 수 있는 프로젝트
 
-[Project-study][project-study-link]
+## [Project-study][project-study-link]
 
 [project-study-link]: https://github.com/JaeHyukSim/project-study/blob/master/README.md "Go project-study!"
 -----------
 
 ### 나의 담당 부분과 기능
 + ERD 설계
-    - [ERD 보러가기](ERD link)
+    - [ERD 보러가기][erd-link]
+    
+    [erd-link]: /ERD.md "Go ERD!"
 + 호텔 리스트
     - [flex sliding 보러가기](Flex Sliding link)
     - [검색 기능 보러가기](search link)
