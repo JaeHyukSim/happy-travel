@@ -12,7 +12,9 @@
     
     [erd-link]: /ERD.md "Go ERD!"
 + 호텔 리스트
-    - [flex sliding 보러가기](Flex Sliding link)
+    - [perfect-sliding ][perfect-sliding-link]
+    
+    [perfect-sliding-link]: https://github.com/JaeHyukSim/perfect-sliding "Go perpect-sliding!"
     - [검색 기능 보러가기](search link)
 + 호텔 디테일
     - [modal 보러가기](modal link)
