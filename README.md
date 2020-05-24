@@ -32,6 +32,11 @@
 + #### 2020-xx-xx ~ 2020-yy-yy
 ### 팀원 
 + 심재혁 김유진 김학민 신승호 조성빈
+-----------
+### 시연 영상 - 1차
+[시연 영상 보러가기][desc-link]
+
+[desc-link]: https://www.youtube.com/watch?v=Ts9go0W2r6c&feature=youtu.be "Go desc link!"
 # 설명서 : 
 	1.web.xml을 수정한다
 		=> 수정 방법:
