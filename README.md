@@ -4,6 +4,7 @@
 ## [Project-study][project-study-link]
 
 [project-study-link]: https://github.com/JaeHyukSim/project-study/blob/master/README.md "Go project-study!"
+
 -----------
 
 ### 나의 담당 부분과 기능
@@ -32,7 +33,22 @@
 + #### 2020-xx-xx ~ 2020-yy-yy
 ### 팀원 
 + 심재혁 김유진 김학민 신승호 조성빈
+
 -----------
+
+### 사용한 기술및 도구
+- Java JSP Vanilla Javascript HTML CSS
+- STS(Spring-Tool-Suite)
+
+---------
+
+### 실행 방법
+- [happy-travel url][happy-travel-link]
+
+[happy-travel-link]: URL "Go happy-travel!"
+
+-----------
+
 ### 시연 영상 - 1차
 [시연 영상 보러가기][desc-link]
 
