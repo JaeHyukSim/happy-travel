@@ -20,7 +20,9 @@
     - [검색 기능 보러가기][search-link]
     
     [search-link]: /Search.md "Go Search function!"
-    - [더보기 기능 보러가기](더보기 link)
+    - [더보기 기능 보러가기][more-link]
+    
+    [more-link]: /more.md "Go more function!"
 + 호텔 디테일
     - [modal 보러가기](modal link)
     - [tab UI 보러가기](tab UI link)
