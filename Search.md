@@ -29,4 +29,4 @@ Ajax를 XMLHttpRequest라는 객체를 이용하여 사용한다.
 
 [보러가기!][link]
 
-[link]: https://www.youtube.com/watch?v=585NI8dSN0M "Go perfect-sliding"
+[link]: https://www.youtube.com/watch?v=tatpX2JXufs "Go search-function!!"
