@@ -10,23 +10,22 @@ Ajax를 XMLHttpRequest라는 객체를 이용하여 사용한다.
 -----------
 
 ### 설명
-
-------------
-
-### 과정
+1. REGULAR EXPRESSION을 통한 검색 - key up을 이용해 타이핑 될 때마다 결과를 Ajax로 가져온다.
 ------------
 
 ### 대표적인 기대효과
+1. 쿼리문 공부
+2. JS의 다양한 객체&메서드 체화
 ---------------
 
 ### 버전 1 ISSUE
-
+1. 성능에 대한 고려가 안됨 - INDEX 공부해보기
 --------------
 
 ### 시연 영상
 
--------------
-
 [보러가기!][link]
 
 [link]: https://www.youtube.com/watch?v=tatpX2JXufs "Go search-function!!"
+
+-------------
